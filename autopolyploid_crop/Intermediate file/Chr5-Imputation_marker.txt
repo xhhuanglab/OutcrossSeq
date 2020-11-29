@@ -1,0 +1,90 @@
+Chr5	9420	A	C	H	A	-	-	-	H	H	H	H	A	H	-	A	H	H	H	A	H	A	-	H	-	-	-	H	H	-	H	A	H	H	-	H	A	A	H	H	H	H	H	A	A	A	A	A	-	A	H	A	H	-	-	A	-	A	-	A	-	H	-	A	-	H	-	-	-	-	-	-	-	A	-	A	A	H	H	A	H	H	H	A	A	A	A	A	-	A	A	A	A	A	-	-	-	-	-	A	A	H	-
+Chr5	9421	G	A	H	G	-	-	-	H	H	H	H	G	H	-	G	H	H	H	G	H	G	-	H	-	-	-	H	H	-	H	G	H	H	-	H	G	G	H	H	H	H	H	G	G	G	G	G	-	G	H	G	H	-	-	G	-	G	-	G	-	H	-	G	-	H	-	-	-	-	-	-	-	G	-	G	G	H	H	G	H	H	H	G	G	G	G	G	-	G	G	G	G	G	-	-	-	-	-	G	G	-	-
+Chr5	9437	A	T	H	A	-	-	-	H	H	H	H	A	H	-	A	H	H	H	-	H	A	-	H	-	-	-	H	H	-	H	A	-	H	-	H	A	A	H	H	H	H	H	A	A	A	A	A	-	A	H	A	H	-	-	A	-	A	-	A	-	H	-	A	-	H	-	-	-	-	-	-	-	A	-	A	A	H	H	A	-	H	H	A	A	A	A	A	-	A	A	A	A	H	-	-	-	-	-	A	A	-	-
+
+Chr5	10527	G	C	-	G	-	G	-	G	H	H	H	G	H	H	-	G	H	G	-	H	H	H	H	-	G	G	G	H	-	H	G	-	-	-	H	H	-	H	H	H	G	-	G	H	G	H	H	G	H	G	H	G	-	-	-	-	-	-	H	-	G	-	G	-	G	-	-	-	H	-	H	H	G	G	H	H	G	G	H	-	H	H	H	G	H	H	-	-	H	G	G	-	G	H	-	-	-	-	H	H	H	-
+Chr5	10542	A	C	-	H	-	A	-	H	H	H	H	A	H	H	-	H	H	A	A	H	H	H	H	-	H	-	A	H	-	H	A	-	-	H	H	H	-	H	H	H	A	A	A	H	H	H	H	-	H	H	H	A	H	-	-	-	-	-	H	-	A	-	H	-	H	-	-	-	H	-	H	H	H	-	H	H	A	A	H	H	H	H	H	A	H	H	-	-	H	H	A	-	H	H	-	-	-	-	H	H	H	-
+Chr5	10626	C	T	H	H	-	C	-	H	C	H	H	C	H	H	H	H	H	C	C	H	H	H	H	-	H	H	H	H	C	H	H	H	H	H	H	H	-	H	-	H	C	H	C	H	C	H	H	C	H	H	H	H	H	-	-	H	-	C	H	-	H	-	H	-	H	C	-	-	H	-	H	H	H	-	H	H	H	C	H	-	H	H	H	-	H	C	C	H	H	H	H	-	H	C	-	-	-	-	-	H	H	-
+Chr5	10644	A	C	H	H	-	A	-	H	A	H	H	A	H	H	A	A	H	-	A	H	H	H	H	-	A	-	H	H	A	H	A	H	H	H	H	H	-	H	H	H	A	H	A	H	H	H	H	A	H	H	H	H	A	-	-	-	-	H	H	-	H	-	H	-	A	A	-	-	H	-	H	H	H	-	H	H	A	A	H	-	H	H	H	-	H	H	A	H	H	H	A	-	H	H	-	-	-	-	-	H	H	H
+Chr5	10647	C	A	H	H	-	C	-	H	C	H	H	C	H	H	H	H	H	-	C	H	H	H	H	-	C	-	H	H	C	H	H	H	H	H	H	H	-	H	H	H	C	H	C	H	H	H	H	C	H	H	H	H	H	-	-	H	-	H	H	-	H	-	H	-	H	C	-	-	H	-	-	H	H	-	H	H	H	C	H	-	H	H	H	-	H	H	C	H	H	C	H	-	H	H	-	-	-	-	-	H	H	H
+Chr5	10650	G	A	H	H	-	G	-	H	H	H	H	G	H	H	H	H	H	H	G	H	H	H	H	-	G	-	H	H	G	H	H	H	H	H	H	H	-	H	H	H	G	H	G	H	H	H	H	G	H	H	H	H	H	-	-	H	-	H	H	-	H	-	H	-	H	G	-	-	H	-	-	H	H	-	H	H	H	G	H	-	H	H	H	-	H	H	G	H	H	H	H	-	H	H	-	-	-	-	-	G	G	G
+
+Chr5	10746	T	G	T	H	H	T	H	T	T	T	T	H	T	H	H	H	H	H	T	H	T	H	H	H	H	H	H	H	H	H	H	H	H	T	T	T	H	T	T	H	T	H	H	H	H	H	T	H	H	H	H	H	T	H	H	H	H	H	H	H	H	H	T	H	H	H	H	H	H	H	H	H	T	H	T	H	T	H	H	H	H	H	T	H	T	T	T	T	T	H	H	T	H	H	H	T	T	T	T	H	T	T
+Chr5	10880	G	C	G	H	H	G	H	G	G	G	G	H	G	H	H	H	H	H	G	H	G	H	H	H	H	H	H	H	H	H	H	H	H	G	G	G	H	G	G	H	G	H	H	H	H	H	G	H	H	H	H	G	G	H	H	H	H	H	H	H	H	H	G	H	H	H	H	H	H	H	H	H	G	H	G	H	G	H	H	H	H	H	G	H	G	G	G	G	G	H	H	G	H	H	H	G	G	G	G	H	G	G
+Chr5	11579	A	C	A	H	H	A	H	A	A	A	A	H	A	H	H	H	H	H	A	H	A	H	H	H	H	H	H	H	H	H	H	H	H	A	A	A	H	A	A	H	A	H	H	H	H	H	A	H	H	H	H	H	A	H	H	H	H	H	H	H	H	H	A	H	H	H	H	H	H	H	H	H	A	H	A	H	A	H	H	H	H	H	A	H	A	A	A	A	A	H	H	A	H	H	H	A	A	A	H	A	A	A
+Chr5	11894	A	G	A	H	H	A	H	A	A	A	A	H	A	H	H	H	H	H	A	H	A	H	H	H	H	H	H	H	H	H	H	H	H	A	A	A	H	A	A	H	A	H	H	H	H	H	A	H	H	H	H	H	A	H	H	H	H	H	H	H	H	H	A	H	H	H	H	H	H	H	H	H	A	H	A	H	A	H	H	H	H	H	A	H	A	A	A	A	A	H	H	A	H	H	H	A	A	A	A	A	A	A
+Chr5	12053	A	T	A	H	H	A	H	A	A	A	A	H	A	H	H	H	H	H	A	H	A	H	H	H	H	H	H	H	H	H	H	H	H	A	A	A	H	A	A	H	A	H	H	H	H	H	A	H	H	H	H	H	A	H	H	H	H	H	H	H	H	H	A	H	H	H	H	H	H	H	H	H	A	H	A	H	A	H	H	H	H	H	A	H	A	A	A	A	A	H	H	A	H	H	H	A	A	A	A	A	A	A
+Chr5	12684	C	A	C	H	H	C	H	C	C	C	C	H	C	H	H	H	H	H	C	H	C	H	H	H	H	H	H	H	H	H	H	H	H	C	C	C	H	C	C	H	C	H	H	H	H	H	C	H	H	H	H	H	C	H	H	C	H	H	H	H	H	H	C	H	H	H	H	H	H	H	H	H	C	H	C	H	C	H	H	H	H	H	C	H	C	C	C	C	C	H	H	C	H	H	C	C	C	C	C	C	C	H
+Chr5	12720	A	G	A	H	H	A	A	A	A	A	A	H	A	H	A	H	H	H	A	H	A	H	H	H	H	H	H	H	H	H	H	H	H	A	A	A	A	A	A	H	A	H	H	H	H	H	A	H	H	H	H	H	A	H	H	H	H	H	H	H	H	H	A	H	H	H	H	H	H	H	H	H	A	H	A	H	A	H	H	H	H	H	A	H	A	A	A	A	A	H	H	A	H	H	A	A	H	H	A	A	A	A
+Chr5	13107	C	G	C	H	H	C	H	C	C	C	C	H	C	H	H	H	H	H	C	H	C	H	H	H	H	H	H	H	H	H	H	H	H	C	C	C	H	C	C	H	C	H	H	H	H	H	C	H	H	H	H	H	C	H	H	H	H	H	H	H	H	H	C	H	H	H	H	H	H	H	H	H	C	H	C	H	C	H	H	H	H	H	C	H	C	C	C	C	C	H	H	C	H	H	H	C	C	C	C	C	C	C
+Chr5	13113	A	G	A	H	H	A	H	A	A	A	A	H	A	H	H	H	H	H	A	H	A	H	H	H	H	H	H	H	H	H	H	H	H	A	A	A	H	A	A	H	A	H	H	H	H	H	A	H	H	H	H	H	A	H	H	H	H	H	H	H	H	H	A	H	H	H	H	H	H	H	H	H	A	H	A	H	A	H	H	H	H	H	A	H	A	A	A	A	A	H	H	A	H	H	H	A	A	A	A	A	A	A
+Chr5	14834	T	G	T	H	H	T	H	T	T	H	T	H	T	H	H	H	H	H	T	H	T	H	H	H	H	H	H	H	H	H	H	H	H	T	T	T	H	T	T	H	T	H	H	H	H	H	T	H	H	H	H	H	T	H	H	H	H	H	H	H	H	H	T	H	H	H	H	H	H	H	H	H	T	H	T	H	T	H	H	H	H	H	T	H	T	T	T	T	T	H	H	T	H	H	H	T	T	T	T	T	T	T
+
+Chr5	11957	A	G	H	H	A	H	-	H	-	H	H	-	H	H	A	H	H	H	-	A	H	-	H	-	A	H	-	H	-	H	A	A	-	-	H	-	-	H	H	H	A	A	A	H	A	A	H	H	A	-	A	A	-	-	-	-	H	H	A	H	A	-	H	A	A	A	-	H	H	H	A	H	H	A	A	H	H	A	H	H	H	H	H	A	H	A	H	A	H	A	A	A	H	H	H	A	-	-	-	-	-	-
+Chr5	12324	C	G	C	-	-	-	C	C	-	C	C	-	H	-	-	H	C	C	C	C	C	-	H	-	C	-	H	-	H	H	C	C	C	-	-	-	H	C	C	C	C	-	H	H	C	C	C	-	C	C	C	C	H	-	-	-	C	-	C	-	C	-	C	-	C	C	-	-	-	C	C	H	C	-	C	C	-	C	C	C	C	C	C	C	C	C	H	C	-	C	C	-	C	C	-	-	-	-	-	-	-	-
+Chr5	12364	G	C	G	-	-	-	-	G	-	H	H	G	H	-	-	H	H	H	H	G	H	-	H	-	G	-	H	H	H	H	G	-	G	-	G	G	H	-	G	G	G	-	H	H	G	G	H	H	G	H	G	G	H	-	-	-	G	H	H	-	G	-	H	-	G	G	-	-	-	G	-	H	G	-	G	-	-	G	H	G	H	G	H	G	H	G	H	G	-	G	G	-	G	G	-	-	-	-	-	-	-	-
+Chr5	12380	C	T	H	-	-	-	-	H	-	H	H	C	H	-	H	H	H	H	H	C	H	-	H	-	H	-	H	H	H	H	H	-	C	-	H	C	H	-	H	H	C	-	H	H	C	H	H	H	H	H	H	H	H	-	-	-	H	H	C	-	C	-	H	-	H	C	-	-	-	C	-	H	C	-	C	C	-	C	H	H	H	H	H	H	H	C	H	H	-	C	H	-	C	H	-	-	-	-	-	-	-	-
+Chr5	12383	G	A	G	-	-	-	-	G	-	H	H	G	H	-	-	H	H	H	H	G	H	-	H	-	G	-	H	H	H	H	G	-	G	-	G	G	H	-	G	G	G	-	H	H	G	G	H	H	G	H	G	G	H	-	-	-	G	H	G	-	G	-	H	-	G	G	-	-	-	G	-	H	G	-	G	G	-	G	H	G	H	G	H	G	H	G	H	G	-	G	G	-	G	G	-	-	-	-	-	-	-	-
+Chr5	13575	G	A	G	-	-	-	-	H	H	G	H	-	-	-	G	G	H	H	H	-	-	H	G	-	G	-	G	G	-	H	H	G	-	G	H	-	G	G	G	-	H	G	G	G	G	G	G	-	G	H	-	G	H	-	-	-	H	H	G	-	H	-	H	-	H	-	-	-	H	-	-	H	G	G	G	H	-	G	-	-	H	H	H	-	G	G	G	H	H	G	G	-	H	H	-	-	-	-	-	H	-	-
+Chr5	14396	C	T	-	H	-	C	-	H	-	H	H	-	-	-	-	H	H	H	H	C	-	-	-	-	C	-	-	C	-	H	H	-	-	-	-	C	H	H	C	-	-	C	-	H	H	C	-	-	H	H	C	C	H	-	-	H	H	H	C	-	C	-	H	-	H	H	H	-	-	-	-	C	H	C	C	H	-	-	H	-	H	C	H	H	H	-	H	H	H	C	C	C	H	H	H	-	-	-	H	H	H	H
+
+Chr5	12069	C	T	H	C	H	H	-	C	-	H	H	-	C	H	C	H	H	H	H	H	H	-	H	-	C	C	-	C	C	H	C	H	C	H	C	-	-	H	H	H	H	-	H	H	H	C	H	H	H	-	C	C	-	C	-	-	H	H	H	H	C	-	C	-	H	C	-	H	H	H	C	H	H	C	C	C	H	C	H	H	H	H	H	-	H	H	H	H	H	H	C	-	H	H	H	C	-	-	-	-	-	-
+Chr5	12083	T	G	H	T	H	H	T	T	-	H	H	-	T	H	T	H	H	H	H	H	H	-	H	-	T	T	-	T	T	H	T	H	T	H	T	-	-	H	H	H	H	-	H	H	H	T	H	H	H	-	-	H	-	T	-	-	H	H	H	H	T	-	T	-	H	T	-	H	-	H	T	H	H	T	T	T	H	T	H	H	H	H	H	-	H	H	H	H	H	H	T	-	H	H	H	T	-	-	-	-	-	-
+Chr5	12142	T	C	T	H	-	H	T	H	-	T	H	-	H	H	T	H	H	H	T	H	H	-	H	-	T	H	H	H	-	H	T	H	T	H	H	-	H	T	H	T	T	-	H	H	H	-	H	H	H	H	T	H	-	-	-	H	H	H	H	-	T	-	T	T	H	T	-	H	-	H	T	H	T	-	T	T	H	H	T	H	H	T	H	-	H	H	H	T	-	H	T	-	H	H	-	T	-	-	-	-	H	-
+Chr5	13032	C	G	C	H	-	H	-	H	H	H	H	H	H	H	C	H	H	H	H	H	H	H	H	-	C	H	H	H	H	H	C	C	-	H	C	H	H	-	H	H	H	H	H	C	H	H	H	-	H	H	H	-	H	-	-	H	H	H	H	H	C	H	H	-	H	H	-	-	H	H	-	H	H	-	C	H	-	H	H	H	H	H	H	-	H	H	H	H	H	C	C	-	H	H	H	-	-	-	-	C	-	-
+
+Chr5	12699	G	A	G	G	-	G	G	G	H	H	H	G	H	-	H	H	G	H	H	H	H	G	H	G	H	H	H	H	H	G	H	-	G	H	H	G	H	H	H	H	H	G	H	H	G	G	G	-	H	H	-	G	G	-	G	G	G	H	G	-	G	-	H	H	G	G	G	G	-	H	-	H	H	H	H	H	-	H	G	H	H	H	H	-	H	H	H	H	H	H	H	H	H	H	H	-	-	-	G	-	-	H
+Chr5	12850	C	G	H	C	-	C	C	C	H	H	H	C	H	H	H	H	H	H	H	H	H	C	H	-	H	H	H	H	H	H	H	C	-	H	H	C	H	H	H	H	H	H	H	H	H	H	H	-	H	H	-	H	H	-	H	H	H	H	H	-	H	C	H	H	C	C	-	C	-	H	-	H	H	H	H	H	-	H	H	H	H	H	H	C	H	H	H	H	H	H	H	H	H	H	H	C	-	-	-	-	H	C
+Chr5	12908	A	G	A	A	-	A	A	A	H	H	H	A	H	-	A	H	A	H	H	H	H	A	H	-	H	A	H	H	A	A	H	A	A	H	H	A	H	H	H	H	H	A	A	H	A	A	A	-	H	H	A	A	H	-	A	A	A	H	A	-	A	A	H	H	A	A	-	A	-	H	-	H	H	-	H	H	-	H	A	H	H	H	H	-	H	H	H	H	A	H	H	A	H	H	H	A	-	-	-	-	A	A
+Chr5	12920	A	G	A	A	-	A	A	A	A	H	H	A	H	-	H	A	A	H	H	H	H	A	H	-	H	A	H	H	H	H	H	A	A	H	H	A	H	H	H	H	H	A	H	H	H	H	H	-	H	H	A	H	H	-	H	H	H	H	H	-	H	-	H	H	A	A	-	A	-	H	-	H	H	A	H	H	-	H	H	H	H	H	H	-	H	H	H	H	H	H	H	H	H	H	H	A	-	-	-	-	-	-
+
+Chr5	12901	C	A	C	C	-	C	C	H	C	H	H	C	C	-	H	H	C	H	H	H	C	C	C	-	C	C	C	C	C	C	H	C	C	C	C	C	C	C	H	C	C	H	C	H	C	C	H	-	H	C	C	C	C	-	C	C	C	C	C	-	C	C	H	C	C	C	-	C	-	C	-	C	C	-	H	H	-	C	C	C	C	C	H	-	H	C	C	H	C	C	C	H	C	H	H	C	-	-	-	-	-	C
+Chr5	12937	C	A	C	C	-	-	-	H	C	C	H	C	C	-	H	H	H	H	H	H	C	-	C	-	C	C	C	C	C	C	H	C	C	C	C	C	C	C	C	C	C	C	C	H	C	C	C	-	H	C	C	C	C	-	C	C	C	C	C	-	C	-	C	C	C	C	C	-	C	C	-	C	C	-	H	H	-	C	C	C	C	C	H	C	H	C	C	H	C	C	C	H	C	C	C	-	-	-	-	-	-	-
+Chr5	12938	A	T	A	A	-	-	-	H	A	A	H	A	A	-	H	H	A	H	H	H	A	-	A	-	A	A	A	A	-	A	H	A	A	A	A	A	A	A	A	A	A	A	A	H	A	A	A	-	H	A	A	A	A	-	A	A	A	A	A	-	A	-	A	A	A	A	A	-	A	A	-	A	A	-	H	H	-	A	A	A	A	A	H	A	H	A	A	H	A	A	A	H	A	A	A	A	-	-	-	-	-	-
+
+Chr5	71148	G	T	H	H	H	H	G	H	H	H	H	G	G	H	H	H	-	H	H	H	H	G	H	H	H	H	H	H	G	H	H	H	H	H	G	G	H	H	H	H	G	H	H	H	H	H	H	G	H	H	H	H	H	H	H	H	H	H	H	G	H	H	H	H	H	H	-	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	G	-	-	G	G	G	H
+Chr5	71196	T	C	T	T	-	T	T	T	T	T	T	T	T	T	H	H	T	H	T	T	T	-	T	T	T	H	T	H	T	T	H	-	T	T	H	-	T	T	T	T	H	T	T	T	T	T	T	T	T	T	T	T	T	T	T	H	T	H	T	-	H	T	T	T	T	H	-	T	T	T	T	T	T	T	T	H	H	T	T	-	T	H	T	T	T	T	H	T	H	T	T	T	T	T	T	H	-	-	-	H	-	-
+Chr5	71259	G	A	G	G	-	G	-	G	G	G	G	G	G	G	G	H	G	H	G	G	G	-	G	G	G	G	G	-	G	G	G	-	-	G	H	-	G	-	G	G	H	G	G	G	G	G	G	-	G	G	G	G	G	G	G	-	-	H	-	-	G	-	G	-	G	H	-	G	-	-	G	G	G	G	G	H	-	G	G	-	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	H	-	-	H	H	H	-
+Chr5	71262	C	A	C	C	-	C	-	C	C	C	C	C	C	C	C	C	C	H	C	C	C	-	C	C	C	C	C	-	C	C	C	-	-	C	C	-	C	-	C	C	H	C	C	H	C	C	C	-	C	C	C	C	C	C	C	-	-	C	-	-	C	-	C	-	C	C	-	C	-	-	C	C	C	C	C	H	-	C	C	-	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	-	-	H	H	H	H
+
+Chr5	71178	G	A	G	G	-	G	G	G	G	H	H	G	G	H	G	G	H	G	G	G	G	G	H	G	H	G	G	G	G	G	H	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	H	G	G	-	G	G	G	G	G	G	-	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	H	G	G	G	G	-	-	H	H	-	H
+Chr5	71206	A	G	A	A	-	A	A	A	A	H	H	A	H	H	A	A	H	H	A	H	H	-	H	A	H	H	A	H	A	A	H	-	A	A	A	-	A	A	A	A	H	H	A	H	A	A	H	A	A	H	A	H	A	A	A	A	A	H	A	-	H	A	H	A	A	A	-	A	A	A	A	H	H	A	A	H	A	A	A	-	A	A	A	A	A	A	H	H	A	A	A	H	H	H	A	A	-	-	-	-	-	-
+Chr5	71263	G	A	G	G	-	G	-	G	G	H	G	G	G	H	G	G	G	G	G	G	G	-	H	G	H	H	G	-	G	G	H	-	-	G	-	-	G	-	G	G	G	G	G	G	G	G	G	-	G	G	G	G	G	G	G	-	-	G	-	-	H	-	G	-	G	G	-	G	-	-	G	G	G	G	G	G	-	G	G	-	G	G	G	G	G	G	H	G	G	G	G	G	G	G	G	G	-	-	G	G	G	H
+
+Chr5	87304	A	T	A	H	H	H	H	A	H	H	A	H	H	H	H	A	H	H	A	H	A	H	H	H	H	A	A	H	H	H	H	H	H	A	H	H	H	H	H	A	A	A	H	H	H	H	H	H	H	A	A	A	H	H	A	H	A	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	A	H	H	A	H	A	A	H	H	H	H	H	H	A	H	H	H	H	H	A	H	A	A	A	A	H	A	A
+Chr5	87309	C	T	C	H	H	H	H	C	H	H	H	H	H	H	H	C	H	H	H	H	C	H	H	H	H	C	C	H	H	H	H	H	H	C	H	H	H	H	H	C	C	C	H	H	H	H	H	H	H	C	C	C	H	H	H	H	C	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	C	H	H	C	H	C	C	H	H	H	H	H	H	H	H	H	H	H	H	C	H	C	C	C	C	H	C	C
+Chr5	87331	A	G	G	H	H	H	H	G	H	H	H	H	H	H	H	G	H	H	G	H	G	H	H	H	H	H	H	H	H	H	G	H	H	H	H	H	H	H	H	G	G	H	H	H	H	H	H	H	H	G	G	G	H	H	G	H	G	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	G	H	H	H	H	G	G	H	H	H	H	H	H	G	H	H	H	H	H	G	H	G	G	G	G	H	G	G
+Chr5	87333	T	C	T	H	H	H	H	T	H	H	T	H	H	H	H	T	H	H	T	H	T	H	H	H	H	T	T	H	H	H	T	H	H	T	H	H	H	H	H	T	T	T	H	H	H	H	H	H	T	T	T	T	H	H	T	H	T	H	H	H	H	H	H	H	H	H	H	H	H	H	H	T	T	H	T	H	H	T	H	T	T	H	H	H	H	H	H	T	H	H	H	H	H	T	H	T	T	T	T	H	H	H
+Chr5	87335	A	T	A	H	H	H	H	A	H	H	A	H	H	H	H	A	H	H	A	H	A	H	H	H	H	A	A	H	H	H	A	H	H	A	H	H	H	H	H	A	A	A	H	H	H	H	H	H	A	A	A	A	H	H	A	H	A	H	H	H	H	H	H	H	H	H	H	H	H	H	H	A	A	H	A	H	H	A	H	A	A	H	H	H	H	H	H	A	H	H	H	H	H	A	H	A	A	H	H	H	A	H
+Chr5	87342	G	A	G	H	H	H	H	G	H	H	G	H	H	H	H	G	H	H	G	H	G	H	H	H	H	G	G	H	H	H	H	H	H	G	H	H	H	H	H	G	G	G	H	H	H	H	H	H	G	G	G	G	H	H	G	H	G	H	H	H	H	H	H	H	H	H	H	H	H	H	H	G	G	H	G	H	H	G	H	G	G	H	H	H	H	H	H	G	H	H	H	H	H	G	H	G	G	G	G	H	G	G
+Chr5	87378	A	T	T	H	H	H	H	T	H	H	T	H	H	H	H	T	H	H	H	H	T	H	H	H	H	T	T	H	H	H	H	H	H	T	H	H	H	H	H	T	T	T	H	H	H	H	H	H	T	T	T	T	H	H	T	H	T	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	T	H	H	T	H	T	T	H	H	H	H	H	H	T	H	H	H	H	H	T	H	T	T	T	H	H	H	H
+Chr5	87380	C	T	T	H	H	H	H	T	H	H	T	H	H	H	H	T	H	H	H	H	T	H	H	H	H	T	T	H	H	H	H	H	H	T	H	H	H	H	H	T	T	T	H	H	H	H	H	H	T	T	T	T	H	H	T	H	T	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	T	H	H	T	H	T	T	H	H	H	H	H	H	T	H	H	H	H	H	T	H	T	T	T	T	H	T	T
+Chr5	87381	C	T	C	H	H	H	H	C	H	H	C	H	H	H	H	C	H	H	H	H	C	H	H	H	H	C	C	H	H	H	H	H	H	C	H	H	H	H	H	C	C	C	H	H	H	H	H	H	C	C	C	C	H	H	C	H	C	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	C	H	C	H	H	C	H	C	C	H	H	H	H	H	H	C	H	H	H	H	H	C	H	C	C	C	H	H	H	C
+Chr5	87396	G	A	G	H	H	H	H	G	H	H	G	H	H	H	H	G	H	H	H	H	G	H	H	H	H	G	H	H	H	H	H	H	H	G	H	H	H	H	H	G	G	G	H	H	H	H	H	H	G	G	G	G	H	H	G	H	G	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	G	H	G	H	H	G	H	G	G	H	H	H	H	H	H	G	H	H	H	H	H	G	H	G	G	G	G	H	G	G
+
+Chr5	92860	T	C	-	H	-	-	-	T	T	T	H	-	T	-	-	H	H	T	-	-	T	-	T	-	-	-	T	H	-	-	-	H	-	T	-	-	-	-	H	T	T	T	H	T	T	-	H	T	H	-	H	-	-	-	H	H	H	H	T	H	T	-	T	H	H	T	-	-	-	-	H	T	H	T	-	H	H	T	H	H	-	T	T	-	-	T	T	H	H	T	-	-	T	T	H	T	-	-	H	T	T	T
+Chr5	92893	A	T	-	H	H	-	-	A	A	A	H	-	A	-	-	H	H	A	-	-	-	-	A	-	-	-	H	H	-	-	-	H	-	A	-	-	-	-	H	A	A	A	H	A	H	-	H	A	H	-	H	-	-	-	H	H	H	H	-	H	A	-	A	H	H	A	-	-	-	-	H	A	H	A	-	H	H	A	H	H	-	A	A	H	A	-	A	H	H	A	-	-	A	A	A	A	-	-	H	A	A	A
+Chr5	92914	G	A	-	H	H	-	-	G	G	G	H	-	G	-	-	H	H	G	-	-	-	-	G	-	-	-	H	H	-	G	-	H	-	G	-	-	-	-	H	G	G	G	H	G	H	-	H	-	H	-	H	G	-	-	H	H	H	H	-	H	G	-	G	H	H	G	-	-	-	-	H	G	H	G	G	-	H	G	H	H	-	G	G	H	G	-	G	H	H	G	-	-	G	G	G	G	-	-	H	G	G	H
+Chr5	99184	C	A	A	H	A	H	-	A	H	H	H	H	A	A	A	A	H	H	A	A	H	A	H	A	A	A	A	H	-	H	H	A	A	A	A	A	H	H	A	A	H	A	A	H	H	H	A	H	A	A	A	A	A	A	H	A	A	A	H	-	H	A	H	-	A	H	A	H	-	A	H	H	A	H	A	A	A	A	H	A	A	H	H	A	H	A	H	A	A	A	H	A	H	H	A	A	-	-	H	H	H	H
+
+Chr5	92918	C	T	-	-	-	-	-	-	H	C	H	H	C	-	-	H	H	H	H	-	-	H	C	-	-	-	H	H	-	H	-	H	-	H	H	-	H	-	H	H	C	C	H	H	H	-	C	-	H	H	H	C	-	-	C	-	-	-	H	-	H	-	H	H	H	H	-	-	-	-	H	H	C	H	H	-	H	H	C	H	-	H	C	-	H	-	H	C	C	H	-	-	H	H	H	H	-	-	H	C	C	-
+Chr5	92919	G	A	-	-	H	-	-	H	H	G	H	-	G	-	-	H	H	G	H	-	-	H	H	-	-	-	H	H	-	H	-	H	-	H	H	-	-	-	H	H	G	G	H	H	H	-	G	-	H	H	H	G	-	-	G	-	H	-	H	-	H	-	H	H	H	H	-	H	-	-	H	H	G	H	H	-	H	H	G	H	-	H	G	H	H	-	H	G	G	H	-	-	H	H	H	H	-	-	H	G	G	-
+Chr5	98056	A	G	A	A	-	A	-	A	A	H	A	A	A	A	A	-	A	A	A	A	H	-	A	-	A	A	A	A	A	A	H	A	A	A	-	-	A	A	A	H	A	A	A	A	A	A	A	-	A	-	A	H	A	-	-	-	A	-	A	-	A	-	A	-	A	A	A	A	A	A	A	A	A	A	A	A	-	A	A	A	A	A	A	A	A	A	A	H	A	A	A	A	A	A	A	A	-	-	-	-	-	A
+
+Chr5	98827	G	A	G	H	-	H	-	G	G	G	G	-	H	G	-	G	G	G	G	-	-	G	-	-	G	G	G	-	G	-	H	-	-	G	G	G	-	H	G	G	G	G	H	G	G	-	G	-	G	-	G	-	-	-	G	-	G	-	G	-	G	-	G	-	G	H	-	G	-	-	-	-	G	G	G	G	G	-	G	-	-	-	-	-	G	G	G	G	G	G	G	G	H	G	G	G	-	-	G	H	H	H
+Chr5	98847	A	C	A	H	-	H	-	A	A	A	A	A	A	A	-	A	A	A	A	-	A	A	-	-	A	A	A	-	A	-	H	-	-	A	-	A	-	A	A	A	A	-	H	A	A	-	A	-	A	-	A	-	-	-	A	-	A	A	A	-	A	-	A	-	A	H	A	A	-	-	-	-	A	A	A	A	A	-	A	-	A	H	A	-	A	A	A	A	A	A	A	A	H	A	A	A	-	A	-	H	H	H
+Chr5	99530	A	G	A	A	A	A	-	A	-	A	A	-	A	A	A	A	A	A	A	A	A	-	A	-	A	A	A	A	-	A	A	-	-	A	-	-	A	A	A	A	A	A	H	A	-	A	A	-	A	A	A	A	A	A	-	-	A	A	A	-	H	A	A	A	A	A	-	A	A	A	-	A	A	A	A	A	A	A	A	-	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	-	-	-	-	-	-
+Chr5	99572	G	A	G	G	G	G	-	G	G	G	G	-	G	G	G	G	G	G	G	G	G	-	G	-	G	G	G	-	-	G	G	-	-	G	-	-	G	G	-	G	G	G	H	G	-	G	G	-	G	G	G	-	-	G	-	-	G	G	G	-	G	G	G	G	G	G	-	G	G	G	-	G	G	-	G	-	G	-	G	-	G	G	G	G	G	G	G	G	G	-	G	G	G	G	-	G	-	G	-	-	-	H
+
+Chr5	99412	C	A	C	C	-	C	-	C	-	C	H	C	C	-	C	C	C	C	C	C	H	-	H	-	C	C	-	H	-	C	C	-	-	C	-	-	H	C	C	C	H	C	C	C	H	H	C	-	C	H	C	C	-	-	-	C	C	H	C	-	H	C	C	C	H	C	-	C	C	C	C	C	H	C	C	C	H	-	H	-	C	C	H	C	H	-	-	C	C	C	-	H	C	C	C	C	-	-	-	-	-	-
+Chr5	99496	C	A	H	H	C	H	-	H	-	C	H	-	C	C	H	H	H	C	H	H	H	-	H	-	C	C	C	H	H	C	H	-	-	H	-	-	H	H	C	H	H	H	C	C	H	H	C	-	H	H	C	H	H	C	C	H	H	H	H	-	H	C	H	C	H	H	H	H	H	H	H	H	H	H	C	H	H	C	H	-	H	H	H	H	H	H	H	H	H	C	H	H	H	C	C	C	C	C	-	-	-	-
+Chr5	99498	A	T	H	H	A	H	-	H	-	A	H	-	A	A	H	H	H	A	H	H	H	-	H	-	A	A	A	H	H	A	H	-	-	H	-	-	H	H	A	H	H	H	A	A	H	H	A	-	H	H	A	H	H	A	A	H	H	H	H	-	H	A	H	A	H	H	H	H	H	H	H	H	H	H	A	H	H	A	H	-	H	H	H	H	H	H	H	H	H	A	H	H	H	A	A	A	H	A	-	-	-	-
+Chr5	99519	T	A	H	H	T	T	-	H	-	T	H	-	T	T	H	H	H	T	H	H	H	-	H	-	T	T	-	H	-	T	H	-	-	T	-	-	H	H	H	H	H	H	T	T	H	H	T	-	H	H	T	H	H	T	-	H	H	H	H	-	H	T	H	T	H	T	H	H	T	H	H	H	H	H	T	H	H	T	H	-	H	H	H	H	H	T	H	H	H	T	H	H	H	T	T	T	T	T	-	-	-	-
+Chr5	99570	G	T	H	G	G	G	-	H	H	H	H	-	G	G	H	H	H	G	H	H	H	H	H	-	H	H	G	H	-	G	H	H	-	G	-	-	H	-	H	H	H	H	H	G	-	H	H	-	H	H	G	H	H	G	-	H	G	H	H	-	H	G	H	G	H	H	-	G	G	H	-	H	H	-	H	-	H	-	H	H	H	H	H	G	H	H	H	H	G	H	G	H	H	H	H	G	-	G	-	-	-	H
+Chr5	99575	T	C	H	T	T	T	-	H	-	H	H	-	T	T	H	H	H	T	H	H	H	H	H	-	H	H	T	H	-	T	H	-	-	T	-	-	H	T	H	H	T	T	T	T	-	H	T	-	H	H	T	H	-	T	-	H	T	T	H	-	T	T	H	T	H	H	-	T	H	H	-	H	H	-	H	-	H	-	H	-	H	H	H	T	H	H	H	H	T	-	T	H	H	H	-	T	-	-	H	H	H	H
+
+Chr5	99437	C	T	C	H	-	C	-	C	C	C	H	C	C	H	C	C	H	C	H	H	H	-	C	-	H	H	C	C	H	H	C	H	-	C	-	H	C	H	H	H	H	C	H	H	-	H	H	-	H	C	H	C	C	-	H	C	H	C	H	-	H	H	H	C	H	H	-	H	H	H	H	C	H	H	H	C	C	H	H	-	H	H	H	C	H	H	H	H	H	H	H	H	H	C	C	H	-	-	-	-	-	-
+Chr5	99527	C	A	C	C	C	C	-	C	-	C	H	-	C	H	C	C	H	C	C	H	C	-	C	-	H	H	C	C	-	H	C	-	-	C	-	H	H	H	H	H	H	C	H	H	-	H	H	-	H	C	H	C	C	C	H	-	H	C	H	-	H	H	H	C	H	H	-	H	H	H	-	C	H	H	C	C	C	H	H	-	H	C	H	C	H	C	H	C	H	H	C	H	C	H	C	H	H	C	-	-	-	-
+Chr5	99564	C	T	C	C	C	-	-	C	-	C	H	-	C	H	C	C	H	-	C	C	H	-	C	-	C	C	C	C	-	H	C	-	-	C	-	-	H	H	-	H	H	C	H	H	-	H	H	-	H	C	H	C	C	C	H	-	H	-	C	-	H	H	H	-	-	H	-	H	C	H	-	C	H	H	H	-	C	H	C	-	H	C	H	C	H	H	H	C	H	H	C	H	C	-	-	C	-	H	-	-	-	H
+Chr5	99584	G	C	G	G	G	G	-	G	-	G	H	-	H	H	H	H	H	G	H	H	H	-	G	-	H	H	G	G	-	H	G	-	-	G	-	H	H	H	H	H	H	G	H	H	G	H	H	-	H	G	H	H	-	G	-	-	H	G	H	-	H	H	H	G	H	G	-	H	H	H	-	G	H	H	H	G	G	H	H	-	H	H	H	H	H	H	H	G	G	H	H	H	H	G	-	H	-	-	-	-	-	-
+
