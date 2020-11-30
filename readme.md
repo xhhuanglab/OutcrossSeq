@@ -7,7 +7,7 @@ You can download the source code and the Demo data here:
 [https://github.com/xhhuanglab/OutcrossSeq](https://github.com/xhhuanglab/OutcrossSeq) 
 You can download the Docker container here:
 [https://hub.docker.com/repository/docker/mjchenjojo/outcrossseq](https://hub.docker.com/repository/docker/mjchenjojo/outcrossseq)
-The ditels of Docker container can be found in [supplementary note](https://github.com/xhhuanglab/OutcrossSeq/blob/master/Supplemental%20note.md).
+The detail of Docker container can be found in [supplementary note](https://github.com/xhhuanglab/OutcrossSeq/blob/master/Supplemental%20note.md).
 ``` 
 docker pull mjchenjojo/outcrossseq:v1.0 
 docker load --input mjchenjojo/outcrossseq:v1.0
