@@ -1,8 +1,0 @@
-args<-commandArgs(T)
-in_file <-paste(args[1],'.txt',sep = "")
-data <-read.table(in_file,sep='\t',header = T)
-d <- as.dist(data)
-out.hclust=hclust(d,method="average") 
-out.id <- cutree(out.hclust,h=args[2])
-out_file <- paste(args[1],'-',args[2],'.txt',sep = "")
-write.table(out.id, sep = "\t",col.names = F,quote = F,file=out_file )
