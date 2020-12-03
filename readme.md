@@ -78,7 +78,8 @@ For details, please see [Use cases](#cases).
 | `100000` | window size (<1cM)|
 | `1` |the first sample order |
 | `6` |the last sample order|
-| `demo_double` | the input file of the vcf file e|
+| `demo_double` | the input file of the vcf file e| 
+
 `perl double_cross_step3.pl 5 5 6 100000`
 
 | Parameter |  Description|
@@ -104,6 +105,7 @@ For details, please see [Use cases](#cases).
 | `Parent2` | the id of parent2 in vcf file |
 | `demo_autopolyploid-Parents` | the input file of the parents vcf file|
 | `demo_autopolyploid` | the input file of the offsprings vcf file|
+
 `perl autopolyploid_step5.pl 5 5`
 
 | Parameter |  Description|
