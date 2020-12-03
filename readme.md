@@ -309,7 +309,7 @@ perl double_cross_step3.pl 5 5 6 100000
 This module is designed dedicated for F<sub>1</sub> population of autopolyploid or near-autopolyploid plants such as potato and sweet potato etc.
 A F<sub>1</sub Population with about 1000 or more individuals is recommended, for a reasonable practice.
 
-*1:Selecet simplex or double-simplex SNPs*
+*1:Select simplex or double-simplex SNPs*
 ```
 perl autopolyploid_Genotype_filter_step1.pl demo_autopolyploid-Parents 100 0.08 1
 ```
