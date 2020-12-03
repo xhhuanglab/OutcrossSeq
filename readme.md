@@ -42,7 +42,7 @@ See Demo data for two hexaploid parents: `demo-Parents.vcf` and their F<sub>1</s
 For details, please see [Use cases](#cases).
 **"Diploid-Outcrossing" module** 
 
-`perl system_diploid_cross.pl 5 100 0.6 0.3 0.35 60 1000 100000 parent1 parent2 demo_diploid demo`
+`perl system_diploid_cross.pl 5 100 0.6 0.3 0.35 60 1000 100000 parent1 parent2 demo_diploid`
 
 | Parameter |  Description|
 | ------------- |------------- | 
@@ -57,13 +57,13 @@ For details, please see [Use cases](#cases).
 | `parent1` | the id of parent1 in vcf file |
 | `parent2` | the id of parent2 in vcf file|
 | `demo_diploid` | the input file of the vcf file |
-| `demo` | output file's name|
 
 `perl diploid_cross_step4.pl 5 5 demo`
 
 | Parameter |  Description|
 | ------------- |------------- | 
-| `5` | chromosome |
+|`first 5`|start chromosome |
+|`second 5`|end chromosome |
 | `demo` | output file's name |
 
 **"Double-Cross" module**
@@ -84,8 +84,8 @@ For details, please see [Use cases](#cases).
 
 | Parameter |  Description|
 | ------------- |------------- | 
-| `5` | star of chromosome |
-| `5` | end of chromosome |
+| `first 5` | star of chromosome |
+| `second 5` | end of chromosome |
 | `6` |  Size of the population |
 | `100000` |window size (<1cM)|
 
