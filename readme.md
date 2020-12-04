@@ -197,10 +197,14 @@ perl diploid_cross_step2.pl 5 60 0.35
 | `5` | chromosome |
 | `60` | sample number |
 |`0.35`|start cuttree threshold |
+
 <font color=#660066> Start cuttree threshold can be determine by the evolutionary tree, as example in the figure,you can set a threshold > 0.3. You can randomly select several windows on the chromosome to draw the evolutionary tree to determine the threshold.</font><br /> 
 ![](https://raw.githubusercontent.com/mjchen-st/pictures/main/2.jpg)
+
 *4:Haplotying across the chromosome*
+
 In this step, a sample.list is required which records the order of individuals in VCF file.
+
 ```
 #less sample.list
 Sim1
