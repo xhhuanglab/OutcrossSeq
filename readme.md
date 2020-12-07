@@ -41,6 +41,7 @@ See Demo data for two hexaploid parents: `demo-Parents.vcf` and their F<sub>1</s
 ## Getting Started
 For details, please see [Use cases](#cases).
 **"Diploid-Outcrossing" module** 
+
 `cd Diploid-Outcrossing`
 `perl system_diploid_cross.pl 5 100 0.6 0.3 0.35 60 1000 100000 parent1 parent2 demo_diploid`
 
@@ -67,6 +68,7 @@ For details, please see [Use cases](#cases).
 | `demo` | output file's name |
 
 **"Double-Cross" module**
+
 `cd Double-Cross`
 `perl system_double_cross.pl 16 17 18 19 5 100 100000 1 6 demo_double`
 
@@ -90,6 +92,7 @@ For details, please see [Use cases](#cases).
 | `100000` |window size (<1cM)|
 
 **"Autopolyploid Plant" module**
+
 `cd Autopolyploid-Plant`
 `perl system_autopolyploid.pl 5 0.08 1 50 0.9 3 100 Parent1 Parent2 demo_autopolyploid-Parents demo_autopolyploid`
 
@@ -324,7 +327,7 @@ perl autopolyploid_Genotype_filter_step1.pl demo_autopolyploid-Parents 100 0.08 
 
 *2:Transform .vcf to .geno file*
 ```
-perl autopolyploid_Genotype_filter_step2.pl 5 demo_autopolyplo5id Parent1 Parent2
+perl autopolyploid_Genotype_filter_step2.pl 5 demo_autopolyploid Parent1 Parent2
 ```
 | Parameter |  Description|
 | ------------- |------------- |
