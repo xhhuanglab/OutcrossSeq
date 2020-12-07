@@ -14,7 +14,7 @@ docker run -it -v $PWD:/docker mjchenjojo/outcrossseq:v1.0
 The code is implemented in perl (v5.16.3) and can be run from linux shell. To run OutcrossSeq the following libraries and tools should be available:
 1. [R](https://stat.ethz.ch/pipermail/r-announce/2017/000616.html) version 3.4.1
 2. [Statistics::Basic](https://metacpan.org/pod/distribution/Statistics-Basic/lib/Statistics/Basic.pod) module
-3. [Number::Format](https://metacpan.org/pod/Number::Format) modular
+3. [Number::Format](https://metacpan.org/pod/Number::Format) module
 
 
 ## Software structure
