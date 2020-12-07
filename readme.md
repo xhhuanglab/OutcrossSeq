@@ -43,6 +43,7 @@ For details, please see [Use cases](#cases).
 **"Diploid-Outcrossing" module** 
 
 `cd Diploid-Outcrossing`
+
 `perl system_diploid_cross.pl 5 100 0.6 0.3 0.35 60 1000 100000 parent1 parent2 demo_diploid`
 
 | Parameter |  Description|
@@ -70,6 +71,7 @@ For details, please see [Use cases](#cases).
 **"Double-Cross" module**
 
 `cd Double-Cross`
+
 `perl system_double_cross.pl 16 17 18 19 5 100 100000 1 6 demo_double`
 
 | Parameter |  Description|
@@ -94,6 +96,7 @@ For details, please see [Use cases](#cases).
 **"Autopolyploid Plant" module**
 
 `cd Autopolyploid-Plant`
+
 `perl system_autopolyploid.pl 5 0.08 1 50 0.9 3 100 Parent1 Parent2 demo_autopolyploid-Parents demo_autopolyploid`
 
 | Parameter |  Description|
