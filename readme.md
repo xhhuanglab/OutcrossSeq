@@ -430,5 +430,6 @@ perl autopolyploid_step5.pl 5 5
 
 ### <a name="citing"></a>Citing OutcrossSeq
 The paper describing OutcrossSeq can be found here:
-
+Chen, M., Fan, W., Ji, F., Hua, H., Liu, J., Yan, M., Ma, Q., Fan, J., Wang, Q., Zhang, S., et al. (2021). Genome-wide Identification of Agronomically Important Genes in Outcrossing Crops using OutcrossSeq. Mol Plant.
+[https://doi.org/10.1016/j.molp.2021.01.003](https://doi.org/10.1016/j.molp.2021.01.003)
 
