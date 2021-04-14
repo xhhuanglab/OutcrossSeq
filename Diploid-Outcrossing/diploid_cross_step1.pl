@@ -15,7 +15,8 @@ while(<IN2>){
 				$window_snp++;$all_hang_num++;
 			}else{
 				$all_hang_num++;
-				$window_snp_num{$window} = $window_snp;  
+				$window_snp_num{$window} = $window_snp;
+				$window_snp_pos{$window}= $window_num;
 				$window_snp = 1;$window++;
 			}
 		}
@@ -25,28 +26,29 @@ while(<IN2>){
 	}
 }
 $window_snp_num{$window} = $window_snp; 
+$window_snp_pos{$window}= $window_num;
 #######################
 $c = 0; $combin_num=0;
 foreach $i(1..$window){
 	$c = $window_snp_num{$i}+$c;
-	if ($c < $min_snp_num ){
+	if ($c <= $min_snp_num ){
 		$combin_num++;
 	}else{
 		$chr_window++;
 		$star{$chr_window}=($i-1-$combin_num)*$win_length;
-		$end{$chr_window}=$i*$win_length-1;
+		$end{$chr_window}=$window_snp_pos{$i}*$win_length-1;
 		$chr_window_snp_num{$chr_window}=$c;
 		$combin_num=0;$c=0;
 	}
 }
 if ($c<$min_snp_num){
 	$chr_window_snp_num{$chr_window}=$c+$chr_window_snp_num{$chr_window};
-	$end{$chr_window}=$window*$win_length-1;
+	$end{$chr_window}=$window_snp_pos{$window}*$win_length-1;
 }else{
 	$chr_window++;
 	$chr_window_snp_num{$chr_window}=$c;
 	$star{$chr_window}=($window-1-$combin_num)*$win_length;
-	$end{$chr_window}=$window*$win_length-1;
+	$end{$chr_window}=$window_snp_pos{$window}*$win_length-1;
 }
 ###########################	
 $chr_window_num=1;
@@ -71,7 +73,7 @@ while(<IN2>){
 						$snp[$a][$i-4] = 9; 
 					}
 				}
-			}elsif($a==$chr_window_snp_num{$chr_window_num}){ 
+			}elsif($a==$chr_window_snp_num{$chr_window_num}){ print "$chr_window_num	$star{$chr_window_num}	$end{$chr_window_num}	$chr_window_snp_num{$chr_window_num}\n";
 				foreach $i(4..$#array){ 
 					if ($array[$i] eq $array[2]){
 						$snp[$a][$i-4] = 0;  
@@ -156,3 +158,4 @@ while(<IN2>){
 	}
 }
 close IN2;
+
